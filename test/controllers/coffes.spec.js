@@ -47,7 +47,7 @@ describe("coffes controllers", () => {
   })
   //put invalid params
   describe("PUT /api/v1/coffes/:id with invalid params", () => {
-    it("should return status code 400 if the ID in the parameters is different from the payload", async () => {
+    it("should return status code 400 if ID is different", async () => {
     const fakeId = faker.number.int({ min: 99, max: 101 });
      const payload = {
       coffe:{
