@@ -25,7 +25,7 @@ describe("coffes controllers", () => {
   //delete
   describe("DELETE /api/v1/coffes/:id with invalid params", () => {
     it("should return a 404, yes id does not match",async () =>{
-      const fakeId = faker.datatype.number({ min: 900, max: 1000 });
+      const fakeId = faker.number.int({ min: 900, max: 1000 });
         const response = await request(app).delete(`/api/v1/coffes/${fakeId}`)
         expect(response.statusCode).toBe(404);
     });
@@ -48,7 +48,7 @@ describe("coffes controllers", () => {
   //put invalid params
   describe("PUT /api/v1/coffes/:id with invalid params", () => {
     it("should return status code 400 if the ID in the parameters is different from the payload", async () => {
-    const fakeId = faker.datatype.number({ min: 99, max: 101 });
+    const fakeId = faker.number.int({ min: 99, max: 101 });
      const payload = {
       coffe:{
         nombre: faker.person.firstName(),
