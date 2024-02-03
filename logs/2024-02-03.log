@@ -1,0 +1,160 @@
+
+Started DELETE /api/v1/coffes/6 for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 21:15:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 204 message:  Time response: 193 ms Request ID: [f0416957-e14e-40dc-8d6d-83c28e1a4223]
+
+Started DELETE /api/v1/coffes/6 for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 21:16:07 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 7 ms Request ID: [228b4f75-d732-415f-9bd1-d7dc18c47b6d]
+
+Started DELETE /api/v1/coffes/6 for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 21:16:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 5 ms Request ID: [c1eeba20-4262-491b-a255-264034891f97]
+
+Started POST /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 21:17:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"coffe":{"nombre":"Mocha","tipo":"Frappuccino®"}}
+Completed: 201 message:  Time response: 18 ms Request ID: [8e0d2798-f310-44e4-8bf4-58719b6310b6]
+
+Started GET /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 21:17:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 6 ms Request ID: [631a0861-ceb5-4fea-9de0-dc71bf7d4a6b]
+
+Started DELETE /api/v1/coffes/7 for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 21:17:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 7 ms Request ID: [38b9f5e4-e34e-4757-9613-654a29e6c3a8]
+
+Started GET /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 21:18:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 88 ms Request ID: [b3ddb326-a43a-4175-99b4-06d38375ecfa]
+
+Started POST /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 21:18:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"coffe":{"nombre":"Mocha","tipo":"Frappuccino®"}}
+Completed: 201 message:  Time response: 6 ms Request ID: [e3d5c4cb-9752-4939-b1ca-2d777627d512]
+
+Started DELETE /api/v1/coffes/8 for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 21:19:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started DELETE /api/v1/coffes/8 for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 21:20:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 17 ms Request ID: [51d79909-7e5f-4383-bc7d-58165cea62eb]
+
+Started GET /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 21:20:43 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 5 ms Request ID: [dd844281-616f-4b03-a88a-82c03bc2d0a7]
+
+Started GET /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 21:20:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 18 ms Request ID: [4d2ae043-4d9a-48d5-b144-39c6c8de15ea]
+
+Started GET /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 21:20:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 4 ms Request ID: [a0252fda-b47b-4100-be12-1517ddf2a813]
+
+Started POST /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 21:25:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"coffe":{"nombre":"Mocha","tipo":"Frappuccino®"}}
+Completed: 201 message:  Time response: 87 ms Request ID: [188d4b98-1a11-4721-beea-80424f3c5cc4]
+
+Started GET /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 21:25:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 7 ms Request ID: [1d1d71dd-4e8a-4901-8fcb-87e0444d7c83]
+
+Started DELETE /api/v1/coffes/9 for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 21:25:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 21:26:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 15 ms Request ID: [1ab9c76d-638c-4fdc-a944-95334a6231fa]
+
+Started POST /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 21:26:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"coffe":{"nombre":"Mocha","tipo":"Frappuccino®"}}
+Completed: 201 message:  Time response: 9 ms Request ID: [e11e59bb-572c-4b4b-801f-0611190b2009]
+
+Started DELETE /api/v1/coffes/10 for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 21:26:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 204 message:  Time response: 7 ms Request ID: [d2259f50-e94e-4894-b0f8-8e93cf9771d2]
+
+Started GET /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 21:27:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 17 ms Request ID: [8c09722a-64bf-4d87-adc2-150a4efc5159]
+
+Started POST /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 21:27:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"coffe":{"nombre":"Mocha","tipo":"Frappuccino®"}}
+Completed: 201 message:  Time response: 8 ms Request ID: [83e24233-4225-4cf8-9270-50b8660ea851]
+
+Started DELETE /api/v1/coffes/11 for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 21:27:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 204 message:  Time response: 7 ms Request ID: [b6b1d88b-a1a3-414e-a548-69d4b8f792c3]
+
+Started DELETE /api/v1/coffes/11 for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 21:27:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 4 ms Request ID: [bced95cf-6b31-4dbf-aef1-18e371239fbf]
+
+Started POST /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 21:27:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"coffe":{"nombre":"Mocha","tipo":"Frappuccino®"}}
+Completed: 201 message:  Time response: 18 ms Request ID: [dd462ec6-bcf6-4019-a495-514e084424de]
+
+Started DELETE /api/v1/coffes/12 for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 21:28:00 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 21:28:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 7 ms Request ID: [2e06dfd1-c9fb-4b45-a0c9-cdf10f53f912]
+
+Started POST /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 21:28:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"coffe":{"nombre":"Mocha","tipo":"Frappuccino®"}}
+Completed: 201 message:  Time response: 6 ms Request ID: [7db0e4d3-743a-4ef2-9496-0f6db0131d10]
+
+Started GET /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 21:28:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 5 ms Request ID: [c510080e-b981-477f-a513-4100fa932fe1]
+
+Started DELETE /api/v1/coffes/13 for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 21:28:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 21:28:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 4 ms Request ID: [cf4207eb-f417-4309-bf25-ff12cab22121]
+
+Started GET /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 21:28:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 18 ms Request ID: [8cde0010-b419-4a9b-aa15-0c4fbba7dc25]
+
+Started POST /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 21:28:51 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"coffe":{"nombre":"Mocha","tipo":"Frappuccino®"}}
+Completed: 201 message:  Time response: 9 ms Request ID: [c1ea14b1-317c-428d-a9cf-17200f66bbfc]
+
+Started DELETE /api/v1/coffes/14 for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 21:28:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 8 ms Request ID: [37ab52f3-9123-42b3-a504-8c6754a9eedb]
+
+Started DELETE /api/v1/coffes/14 for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 21:28:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 7 ms Request ID: [0225b9a5-4ccd-48fb-a5a8-08a567682c3e]
+
+Started GET /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 21:33:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 77 ms Request ID: [eb70477d-fcd7-4655-9df0-9d29304a8de7]
+
+Started POST /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 21:33:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"coffe":{"nombre":"Mocha","tipo":"Frappuccino®"}}
+Completed: 201 message:  Time response: 7 ms Request ID: [65787673-1d13-4be1-b042-ed6b389b599a]
+
+Started GET /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 21:33:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 5 ms Request ID: [6d72a63a-b467-4ccc-8691-75b0037060ff]
+
+Started DELETE /api/v1/coffes/15 for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 21:35:05 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 259 ms Request ID: [0cd884ce-452f-4b5c-83d7-1e49e73a7fec]
+
+Started POST /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 21:35:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"coffe":{"id":6,"nombre":"Mocha","tipo":"Frappuccino®"}}
+Completed: 201 message:  Time response: 80 ms Request ID: [68ffd260-7c2b-45e0-9226-02cf20300c50]
+
+Started GET /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 21:35:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 177 ms Request ID: [309cb4cd-2776-4ca0-9218-b8b3bd5ce871]
+
+Started GET /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 21:36:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 73 ms Request ID: [2110dabf-ba8b-415c-b681-88abb91e7fff]
+
+Started GET /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 21:36:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 177 ms Request ID: [fdb462b2-8ef2-4014-ba94-1921b0849ae8]

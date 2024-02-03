@@ -1,0 +1,222 @@
+
+Started POST /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:22:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"coffe":{"nombre":"Cappuccino","tipo":"Cafes Caliente"}}
+Started POST /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:25:42 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"coffe":{"nombre":"Cappuccino","tipo":"Cafes Caliente"}}
+Completed: 400 message:  Time response: 24 ms Request ID: [0c6359fd-d809-4104-9e6e-a0cd0ad1728d]
+
+Started POST /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:25:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"coffe":{"nombre":"Cappuccino","tipo":"Cafes Caliente"}}
+Completed: 400 message:  Time response: 87 ms Request ID: [0aa43fd0-8225-4ed6-8603-7b9bb7a2c163]
+
+Started POST /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:25:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"coffe":{"nombre":"Cappuccino","tipo":"CafesCaliente"}}
+Completed: 400 message:  Time response: 120 ms Request ID: [3771c463-dffa-4044-8803-f667fbf659b0]
+
+Started POST /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:26:00 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"coffe":{"nombre":"Cappuccino","tipo":"CafesCaliente"}}
+Completed: 400 message:  Time response: 80 ms Request ID: [c423f747-9659-447e-ba19-5d4c77441122]
+
+Started POST /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:26:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"coffe":{"nombre":"Cappuccino","tipo":"CafesCaliente"}}
+Completed: 400 message:  Time response: 81 ms Request ID: [835628c6-7b02-4a75-a3fd-7e29ea37cf28]
+
+Started GET /coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:27:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 6 ms Request ID: [7f47b3cb-99bf-4623-b3cf-5db3f64df7e6]
+
+Started GET /coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:27:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 4 ms Request ID: [b4222ebc-59aa-4e63-8f51-06c1559a353b]
+
+Started GET /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:27:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 82 ms Request ID: [785b8993-4fed-4a05-9ce0-f0d544c81460]
+
+Started GET /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:27:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 81 ms Request ID: [275addc9-25e0-4cc9-86ab-5eea572f6629]
+
+Started GET /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:27:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 79 ms Request ID: [d4a8754f-023b-4e3c-98d0-2b4532d777a0]
+
+Started POST /coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:27:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"coffe":{"nombre":"Cappuccino","tipo":"Cafes Caliente"}}
+Completed: 404 message:  Time response: 10 ms Request ID: [ac44cdbc-7878-438e-8fe5-35492d9e303f]
+
+Started POST /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:27:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"coffe":{"nombre":"Cappuccino","tipo":"Cafes Caliente"}}
+Completed: 400 message:  Time response: 93 ms Request ID: [e747ebe1-6f2d-4407-9f5d-6e49d49881b4]
+
+Started POST /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:29:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"coffe":{"nombre":"Cappuccino","tipo":"Cafes Caliente"}}
+Completed: 201 message:  Time response: 82 ms Request ID: [62ffc3bc-f81f-4031-97f5-86f50bfc0329]
+
+Started GET /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:29:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 22 ms Request ID: [1576b65f-a74c-4498-ae3f-6f3ba439a860]
+
+Started GET /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:29:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 85 ms Request ID: [bfe31691-750f-4828-8966-9227189fe09e]
+
+Started GET /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:29:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 76 ms Request ID: [c5bf2c0d-bb54-4c49-9cda-b30a07bbc23c]
+
+Started GET /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:29:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 77 ms Request ID: [92b64009-6f67-4f35-9278-2de72e47d7ed]
+
+Started GET /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:29:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 85 ms Request ID: [c15dcc1f-0d66-4bf6-beb6-123070a8a5f1]
+
+Started GET /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:30:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 104 ms Request ID: [cef17a0d-e991-4f74-a5ba-dfabb492bd4c]
+
+Started GET /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:30:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 82 ms Request ID: [2d8b04e4-31b1-4633-bebb-3e2850018628]
+
+Started GET /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:30:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 78 ms Request ID: [4674d772-dce9-40a0-999b-1d3cb5e57747]
+
+Started GET /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:31:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 94 ms Request ID: [456200cb-868b-4f99-b1b5-898a5f3596cb]
+
+Started GET /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:31:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 16 ms Request ID: [ea4cc95a-c2e6-4c48-9031-2572df23679c]
+
+Started GET /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:31:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 5 ms Request ID: [35bd0d83-ec07-4665-a9e9-67283abfedc6]
+
+Started GET /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:31:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 5 ms Request ID: [26f2b3b0-52b8-41a1-ba61-f6d9b31460e0]
+
+Started GET /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:31:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 4 ms Request ID: [c10724ad-7202-4c84-aa39-143dd9626ae6]
+
+Started GET /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:31:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 4 ms Request ID: [7d7e3a10-7935-4fc0-914d-4c43b889f305]
+
+Started GET /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:31:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 4 ms Request ID: [f4576402-c204-4847-96c8-8f9b3c8b468e]
+
+Started GET /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:31:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 5 ms Request ID: [fc68bb5c-e39a-478a-b980-9375d049a6e9]
+
+Started GET /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:31:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 6 ms Request ID: [1b93a97f-01f8-47d5-9120-b2b0a9979953]
+
+Started GET /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:31:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 5 ms Request ID: [db2e777e-bdd4-49fe-8507-faf665dbb1dc]
+
+Started GET /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:31:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 5 ms Request ID: [8c2b8528-bb75-44c8-bbc0-050c3ff9d04c]
+
+Started GET /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:31:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 5 ms Request ID: [1b28884a-d085-4beb-b41e-0b507cb8e8bf]
+
+Started GET /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:31:50 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 5 ms Request ID: [d01acf15-212e-4de2-9870-70c3e4f7bdcd]
+
+Started POST /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:34:04 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"coffe":{"nombre":"Vainilla Latte","tipo":"Cafes Helados"}}
+Completed: 201 message:  Time response: 91 ms Request ID: [d2e901d1-c6b6-4bd7-9a6b-5e620bfce501]
+
+Started POST /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:34:56 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"coffe":{"nombre":"Americano","tipo":"Cafes Helados"}}
+Completed: 201 message:  Time response: 77 ms Request ID: [828c53a1-b33e-4198-8239-0160fa501269]
+
+Started GET /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:35:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 5 ms Request ID: [975a1b3d-6365-4df9-97d5-33a83af215cf]
+
+Started POST /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:38:26 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"coffe":{"nombre":"Avellana Shaken Espresso con Avena Helado","tipo":"Cafes Helados"}}
+Completed: 201 message:  Time response: 76 ms Request ID: [87563546-71a2-4ef5-b80e-96e68c23f81d]
+
+Started POST /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:38:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"coffe":{"nombre":"Skinny Vainilla Latte Helado","tipo":"Cafes Helados"}}
+Completed: 201 message:  Time response: 83 ms Request ID: [3bd68302-d6ce-4546-9e43-668ef75763af]
+
+Started POST /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:40:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"coffe":{"nombre":"Mocha","tipo":"Frappuccino®"}}
+Completed: 201 message:  Time response: 74 ms Request ID: [7ee56a3d-9e12-46a7-8490-ad7b1cfaef49]
+
+Started GET /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:40:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 4 ms Request ID: [4dc8c2ab-866e-44e6-9d10-acf340547ec8]
+
+Started PUT /api/v1/coffe/6 for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:51:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"coffe":{"nombre":"Cookies & Creme","tipo":"Frappuccino"}}
+Completed: 404 message:  Time response: 12 ms Request ID: [67d4507b-0c68-4b6c-b579-60990a81cc66]
+
+Started PUT /api/v1/coffe/6 for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:51:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"coffe":{"nombre":"Cookies & Creme","tipo":"Frappuccino"}}
+Completed: 404 message:  Time response: 5 ms Request ID: [1c23a577-9f7e-4c3a-95b5-179e4e351986]
+
+Started PUT /api/v1/coffe/6 for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:51:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"coffe":{"nombre":"Cookies & Creme","tipo":"Frappuccino"}}
+Completed: 404 message:  Time response: 3 ms Request ID: [51cc7bbd-c1d4-41b2-bb8c-00eaf32aba4b]
+
+Started PUT /api/v1/coffe/6 for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:51:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"coffe":{"nombre":"Cookies & Creme","tipo":"Frappuccino"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [140c53bf-11f5-441b-8917-20b1ff02d99c]
+
+Started PUT /api/v1/coffe/6 for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:51:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"coffe":{"nombre":"Cookies & Creme","tipo":"Frappuccino"}}
+Completed: 404 message:  Time response: 10 ms Request ID: [f29d2df9-ecd4-4485-9c4c-2404c82b5c7a]
+
+Started PUT /api/v1/coffe/6 for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:51:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"coffe":{"nombre":"Cookies & Creme","tipo":"Frappuccino"}}
+Completed: 404 message:  Time response: 4 ms Request ID: [c94b3ce5-7f96-4b01-b89a-1fcd340fe0e5]
+
+Started PUT /api/v1/coffes/6 for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:52:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"coffe":{"nombre":"Cookies & Creme","tipo":"Frappuccino"}}
+Completed: 400 message:  Time response: 99 ms Request ID: [79716266-57eb-44cc-8e84-878861b24e18]
+
+Started GET /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:52:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 80 ms Request ID: [6d0367c5-ed2d-4868-8157-468f5edae02c]
+
+Started PUT /api/v1/coffes/6 for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:53:05 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"coffe":{"nombre":"Cookies & Creme","tipo":"Frappuccino"}}
+Completed: 400 message:  Time response: 15 ms Request ID: [e3da5f9a-2453-44fe-a92f-84aeba542d56]
+
+Started PUT /api/v1/coffes/6 for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:53:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"coffe":{"nombre":"Cookies & Creme","tipo":"Frappuccino"}}
+Completed: 400 message:  Time response: 88 ms Request ID: [fd13d031-df5a-40e4-af0c-f8a58e5f75b3]
+
+Started PUT /api/v1/coffes/6 for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:54:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"coffe":{"nombre":"Cookies & Creme","tipo":"Frappuccino"}}
+Completed: 200 message:  Time response: 20 ms Request ID: [2bac3cbf-093d-4d4c-ae27-8d58f0ebee4d]
+
+Started GET /api/v1/coffes for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:54:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 6 ms Request ID: [d3907fb0-cd5f-4a09-b92b-2ddb92bfe91f]
+
+Started PUT /api/v1/coffes/6 for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:55:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"coffe":{"nombre":"Cookies & Creme"}}
+Completed: 400 message:  Time response: 192 ms Request ID: [87535f9e-afa9-42a8-878f-6d74831017a0]
+
+Started PUT /api/v1/coffes/6 for :: ::ffff:127.0.0.1 at Fri Feb 02 2024 20:55:56 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"coffe":{"nombre":"Cookies & Creme"}}
+Completed: 400 message:  Time response: 48 ms Request ID: [51496584-72ae-4f05-8eab-d5d0f36f443c]
